@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+
+     background-image: url("https://www.warnerbros.com/archive/spacejam/movie/img/bg_stars.gif");
+}
+h1 {
+    color: green;
+}
+p {
+    color: red;
+}
+header {
+  text-align: center ;
+}
+
+a:visited {
+
+    color: limegreen ;
+
+}
+
+#japan {
+  color: pink;
+}
+
+.paragraphs {
+   color: yellow;
+
+}
